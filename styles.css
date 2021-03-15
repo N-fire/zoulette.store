@@ -81,7 +81,7 @@ body {
 }
 @media (max-width: 939px) {
     .nav-search-input-group input {
-        background: url(../../../../assets/images/63a95f9bc77a27823b15d555ce322d3918f145ea/search-icon-mobile.png) 4px center no-repeat #fff;
+        background: url(./files/search-icon-mobile.png) 4px center no-repeat #fff;
         background-size: 1.25rem;
         padding-left: 2rem;
     }
@@ -398,7 +398,7 @@ main {
     margin-left: 0.25rem;
 }
 .stars {
-    background-image: url(./amazonuiicon-sprite.png);
+    background-image: url(./files/amazonuiicon-sprite.png);
     background-position: -5px -368px;
     background-repeat: no-repeat no-repeat;
     background-size: 400px 900px;
@@ -462,7 +462,7 @@ main {
     display: inline-block;
     background-size: 512px 256px;
     background-repeat: no-repeat;
-    background-image: url(../../../../../m.media-amazon.com/images/G/01/AUIClients/AmazonUIIcon-beacon_light_2x-f21f15607b8bab8880f1efe348e5af00a6db5671._V2_.png);
+    background-image: url(https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIIcon-beacon_light_2x-f21f15607b8bab8880f1efe348e5af00a6db5671._V2_.png);
     width: 53px;
     height: 15px;
     background-position: -84px -2px;
