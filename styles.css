@@ -40,7 +40,9 @@ body {
     overflow: hidden;
 }
 .nav-logo {
-    height: 2.85rem;
+    /* height: 2.85rem */
+    margin-left: 25px;
+    width: 500px;
 }
 @media (min-width: 940px) {
     .nav-logo {
